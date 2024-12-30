@@ -5,7 +5,8 @@ export default function Footer() {
     <footer
       // className="mb-10 px-4 text-center text-gray-500"
       style={{
-        height: "150px",
+        height: "15vh",
+        width:"202vh",
         backgroundColor: "#313243",
         display: "flex"
       

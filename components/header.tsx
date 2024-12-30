@@ -12,7 +12,7 @@ export default function Header() {
     useActiveSectionContext();
 
   return (
-    <header className="z-[999] relative" style={{height:"150px", backgroundColor:"#313243", marginBottom:"145px", marginTop:"10px"}}>
+    <header className="z-[999] relative" style={{height:"16vh",width:"202vh", backgroundColor:"#313243", marginBottom:"145px", marginTop:"10px"}}>
        <div className="contHeader" style={{margin:"40px",marginTop:"-200px"}}>kiberOne</div>
        <img style={{width: "100px", height: "76.89", margin:20}} src="../logo.png" alt="logo"/>
        
